@@ -15,4 +15,7 @@ jobs:
 
       - name: Run a one-line script
         run: echo Hello from Octo Organization
+        
+      - name: Add step test
+        run: echo 1
 
